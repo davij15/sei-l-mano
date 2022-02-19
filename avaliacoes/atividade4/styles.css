@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Libre Franklin', sans-serif;
+  background: rgb(255, 187, 41);
+}
+
+h1, h4{
+  font-weight: normal;
+  margin-top: 1.2rem;
+  margin-bottom: 0.8rem;
+}
+
+.card {
+  width: min(90vw, 900px);
+  margin: auto;
+  background: white;
+  margin-bottom: 2rem;
+  border-radius: 0.25rem;
+}
